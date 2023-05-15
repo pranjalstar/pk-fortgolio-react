@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/pk-portfolio-react/static/css/main.9d3cb73b.css",
+    "main.js": "/pk-portfolio-react/static/js/main.e8e4ab3a.js",
+    "static/media/musicapp.png": "/pk-portfolio-react/static/media/musicapp.57b0a3b37a298016bd2c.png",
+    "static/media/sidebar.png": "/pk-portfolio-react/static/media/sidebar.d882003f0c44768e3fdf.png",
+    "static/media/hoc.png": "/pk-portfolio-react/static/media/hoc.5eea71a7890cf505e0bc.png",
+    "static/media/ecommerce.png": "/pk-portfolio-react/static/media/ecommerce.a0dd82b090ac98eb7fa8.png",
+    "static/media/boy.png": "/pk-portfolio-react/static/media/boy.1ca8f7804b6c5f28615f.png",
+    "static/media/resume.pdf": "/pk-portfolio-react/static/media/resume.fe48e4c5ad92922a1a21.pdf",
+    "static/media/glassesimoji.png": "/pk-portfolio-react/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/Photoshop.png": "/pk-portfolio-react/static/media/Photoshop.423c623e5609aaaddc5e.png",
+    "static/media/thumbup.png": "/pk-portfolio-react/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/humble.png": "/pk-portfolio-react/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/pk-portfolio-react/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/wave.png": "/pk-portfolio-react/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/pk-portfolio-react/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/pk-portfolio-react/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/pk-portfolio-react/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "index.html": "/pk-portfolio-react/index.html",
+    "main.9d3cb73b.css.map": "/pk-portfolio-react/static/css/main.9d3cb73b.css.map",
+    "main.e8e4ab3a.js.map": "/pk-portfolio-react/static/js/main.e8e4ab3a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d3cb73b.css",
+    "static/js/main.e8e4ab3a.js"
+  ]
+}
